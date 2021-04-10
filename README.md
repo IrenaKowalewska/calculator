@@ -1,6 +1,6 @@
 ## Task [RS School](https://rs.school/) Calculator
 
-![]()
+![](https://github.com/IrenaKowalewska/calculator/blob/main/calculator.png)
 
 [Deploy Calculator](https://rolling-scopes-school.github.io/irenakowalewska-JS2020Q3/calculator/) 
 
